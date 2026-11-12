@@ -26,7 +26,7 @@ My current research interests mainly lie in **terminal coding agents**, **agent 
 
 <table>
   <tr>
-    <td width="60" align="center"><img src="https://github.com/goodmanpzh/goodmanpzh.github.io/raw/master/public/icons/ustc.png" width="50" height="50" alt="USTC"/></td>
+    <td width="60" align="center"><img src="assets/logos/ustc.png" width="50" height="50" alt="USTC"/></td>
     <td>
       <strong>University of Science and Technology of China (USTC)</strong><br>
       M.S. in Computer Technology, School of Artificial Intelligence and Data Science <br>
@@ -34,7 +34,7 @@ My current research interests mainly lie in **terminal coding agents**, **agent 
     </td>
   </tr>
   <tr>
-    <td width="60" align="center"><img src="https://github.com/goodmanpzh/goodmanpzh.github.io/raw/master/public/icons/neu.png" width="50" height="50" alt="NEU"/></td>
+    <td width="60" align="center"><img src="assets/logos/neuq.png" width="50" height="50" alt="NEU"/></td>
     <td>
       <strong>Northeastern University (NEU)</strong><br>
       B.E. in Data Science and Big Data Technology <br>
@@ -49,7 +49,7 @@ My current research interests mainly lie in **terminal coding agents**, **agent 
 
 <table>
   <tr>
-    <td width="60" align="center"><img src="https://github.com/goodmanpzh/goodmanpzh.github.io/raw/master/public/icons/meituan.png" width="50" height="50" alt="Meituan"/></td>
+    <td width="60" align="center"><img src="assets/logos/longcat.png" width="50" height="50" alt="Meituan"/></td>
     <td>
       <strong>Meituan · LongCat Team</strong><br>
       Research Intern (Coding Agent Post-training) <br>
